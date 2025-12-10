@@ -1,0 +1,11 @@
+code/config.py
+.idea/
+.venv/
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+derby.log
+metastore_db/
+spark-warehouse/
